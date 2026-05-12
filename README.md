@@ -1,4 +1,4 @@
-# Simple Blog Platform
+#Simple Blog Platform
 
 ## Description
 A simple blog platform developed by our team to demonstrate Git branching and merging.
